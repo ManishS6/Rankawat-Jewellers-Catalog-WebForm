@@ -1,0 +1,16 @@
+.box {
+    height: fit-content;
+    width: fit-content;
+    margin: 12px;
+    padding: 20px;
+    background-color: salmon;
+    text-align: center;
+}
+input,select,label{
+    font-size: medium;
+    padding: 12px;
+    margin: 2px;
+}
+select{
+    width: fit-content;
+}
